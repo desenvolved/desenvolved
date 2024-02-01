@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 <h1 align="left">Desenvolved Sistems</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=desenvolved&color=red" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=desenvolved&color=red" alt="Profile views"/></p>
 
 - 🔥 Web Developer
-
 - 🔭 Transform your digital presence now!
-
 - 💬 talk to me about **JavaScript, HTML, CSS**
+- 📫 How to reach me: (https://api.whatsapp.com/send?phone=+5517988288778)
 
 <br>
 
@@ -37,10 +36,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: (https://api.whatsapp.com/send?phone=+5517988288778&text=Oi! Gostaria de fazer um orçamento.)https://api.whatsapp.com/send?phone=+5517988288778&text=Oi! Gostaria de fazer um orçamento.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
