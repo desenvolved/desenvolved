@@ -6,7 +6,7 @@
 - 🔥 Web Developer
 - 🔭 Transform your digital presence now!
 - 💬 talk to me about **JavaScript, HTML, CSS**
-- 📫 How to reach me: (https://api.whatsapp.com/send?phone=+5517988288778)
+- [📫 How to reach me:](https://a-paulaassuncao.github.io/habitstracker/)
 
 <br>
 
