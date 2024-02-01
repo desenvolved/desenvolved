@@ -6,7 +6,7 @@
 - 🔥 Web Developer
 - 🔭 Transform your digital presence now!
 - 💬 talk to me about **JavaScript, HTML, CSS**
-- [📫 How to reach me:](https://a-paulaassuncao.github.io/habitstracker/)
+- 📫 How to reach me: [WhatsApp](https://a-paulaassuncao.github.io/habitstracker/) & anap.assuncao03@gmail.com
 
 <br>
 
