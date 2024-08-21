@@ -5,7 +5,6 @@
 
 - 🔥 Web Developer
 - 🔭 Transform your digital presence now!
-- 💬 talk to me about **JavaScript, HTML, CSS**
 - 📫 How to reach me: 
 ##
 <div>
